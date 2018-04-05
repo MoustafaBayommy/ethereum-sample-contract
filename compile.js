@@ -12,4 +12,4 @@ const source=fs.readFileSync(inboxPath,'utf8');
 
 //log to see output
 
-console.log(solc.compile(source,1););
+console.log(solc.compile(source,1));
